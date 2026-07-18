@@ -33,7 +33,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<h1 style="text-align: center;">🧠 Free Energy Principle – Market Beliefs</h1>', unsafe_allow_html=True)
-st.markdown('<p style="text-align: center;">Karl Friston's active inference | Variational free energy | Collective belief updating</p>', unsafe_allow_html=True)
+st.markdown('<p style="text-align: center;">Karl Friston\'s active inference | Variational free energy | Collective belief updating</p>', unsafe_allow_html=True)
 
 st.sidebar.markdown("## 🧮 Free Energy")
 if st.sidebar.button("🔄 Refresh Data", use_container_width=True, type="primary"):
