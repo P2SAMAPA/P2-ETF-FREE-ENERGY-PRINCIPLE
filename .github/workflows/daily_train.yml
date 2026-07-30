@@ -2,7 +2,7 @@ name: Daily Free Energy Training
 
 on:
   schedule:
-    - cron: '10 00 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
 
 jobs:
